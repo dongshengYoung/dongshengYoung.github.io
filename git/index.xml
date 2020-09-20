@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gits on Dongsheng Young&#39;s Site</title>
+    <link>http://example.org/git/</link>
+    <description>Recent content in Gits on Dongsheng Young&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Sep 2020 02:15:44 +0800</lastBuildDate><atom:link href="http://example.org/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Submodules</title>
+      <link>http://example.org/git/git-submodules/</link>
+      <pubDate>Fri, 18 Sep 2020 02:15:44 +0800</pubDate>
+      
+      <guid>http://example.org/git/git-submodules/</guid>
+      <description>What is git submodules Submodules allow you to include or embed one or more repositories as a sub-folder inside another repository.
+add submodule git submodule add -b master https://github.com/&amp;lt;USERNAME&amp;gt;/&amp;lt;USERNAME&amp;gt;.github.io.git public
+download content older version may not download submodule conten, using git submodule update --init --recursive to download content.
+doc https://github.blog/2016-02-01-working-with-submodules/</description>
+    </item>
+    
+  </channel>
+</rss>
