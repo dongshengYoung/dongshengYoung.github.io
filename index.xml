@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dongsheng Young&#39;s Site</title>
-    <link>http://example.org/</link>
+    <link>https://dongshengyoung.github.io/</link>
     <description>Recent content on Dongsheng Young&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2020 01:10:41 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Sep 2020 01:10:41 +0800</lastBuildDate><atom:link href="https://dongshengyoung.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://dongshengyoung.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 17 Sep 2020 01:10:41 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://dongshengyoung.github.io/posts/my-first-post/</guid>
       <description>what is git submodule
 what is Hugo draft
 I added dongshengYoung.github.io as a git submodule</description>
