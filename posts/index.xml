@@ -14,7 +14,8 @@
       
       <guid>http://example.org/posts/my-first-post/</guid>
       <description>what is git submodule
-what is Hugo draft</description>
+what is Hugo draft
+I added dongshengYoung.github.io as a git submodule</description>
     </item>
     
   </channel>

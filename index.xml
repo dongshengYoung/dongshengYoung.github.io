@@ -6,30 +6,7 @@
     <description>Recent content on Dongsheng Young&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2020 02:15:44 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Git Submodules</title>
-      <link>http://example.org/git/git-submodules/</link>
-      <pubDate>Fri, 18 Sep 2020 02:15:44 +0800</pubDate>
-      
-      <guid>http://example.org/git/git-submodules/</guid>
-      <description>What is git submodules Submodules allow you to include or embed one or more repositories as a sub-folder inside another repository.
-add submodule git submodule add -b master https://github.com/&amp;lt;USERNAME&amp;gt;/&amp;lt;USERNAME&amp;gt;.github.io.git public
-download content older version may not download submodule conten, using git submodule update --init --recursive to download content.
-doc https://github.blog/2016-02-01-working-with-submodules/</description>
-    </item>
-    
-    <item>
-      <title>Basic Usage</title>
-      <link>http://example.org/hugo/basic-usage/</link>
-      <pubDate>Fri, 18 Sep 2020 02:11:17 +0800</pubDate>
-      
-      <guid>http://example.org/hugo/basic-usage/</guid>
-      <description>Create a new Page  You can manually create content files,
-(for example as content/&amp;lt;CATEGORY&amp;gt;/&amp;lt;FILE&amp;gt;.&amp;lt;FORMAT&amp;gt;) and provide metadata in them, however you can use the new command to do a few things for you
-(like add title and date): hugo new /&amp;lt;CATEGORY&amp;gt;/&amp;lt;FILE&amp;gt;.&amp;lt;FORMAT&amp;gt;  </description>
-    </item>
-    
+    <lastBuildDate>Thu, 17 Sep 2020 01:10:41 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>http://example.org/posts/my-first-post/</link>
@@ -37,7 +14,8 @@ doc https://github.blog/2016-02-01-working-with-submodules/</description>
       
       <guid>http://example.org/posts/my-first-post/</guid>
       <description>what is git submodule
-what is Hugo draft</description>
+what is Hugo draft
+I added dongshengYoung.github.io as a git submodule</description>
     </item>
     
   </channel>
